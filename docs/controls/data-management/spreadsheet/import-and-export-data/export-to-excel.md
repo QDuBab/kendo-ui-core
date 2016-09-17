@@ -27,7 +27,6 @@ This method will not ask you to specify a file name. Instead, it will set the va
 Currently, the export module does not handle:
 
 * Sorting and filtering
-* Border styles
 
 These will be addressed before the widget goes out of Beta.
 
